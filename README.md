@@ -10,5 +10,5 @@ This server is intended to serve three kinds of requests:
 # Installation
 
 1. Download the files.
-2. Run BookServer.py
+2. Run BookmarkServer.py
 
